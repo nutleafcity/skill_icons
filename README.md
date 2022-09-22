@@ -1,2 +1,2 @@
 # skill_icons
-hosting skill icons
+Each directory corresponds to a job ID.
